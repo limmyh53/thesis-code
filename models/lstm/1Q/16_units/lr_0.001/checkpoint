@@ -1,0 +1,2 @@
+model_checkpoint_path: "12_validated"
+all_model_checkpoint_paths: "12_validated"
