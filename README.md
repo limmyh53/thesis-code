@@ -28,8 +28,8 @@ For Python the following packages are required:
 * TensorFlow (version r1.0)
 * NumPy
 * Pandas
-* SciPy
-* Jupyter
+* scikit-learn
+* Jupyter Notebook
 
 ## Where everything is
 
