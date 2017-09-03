@@ -1,19 +1,10 @@
 # Forecasting U.S. Inflation Using Machine Learning
 
-This project investigates the application of machine learning methods in forecasting
-the rate of CPI inflation in the U.S. by comparing the empirical performance of
-six supervised learning algorithms: Ridge Regression, KNN, SVR, Random Forest,
-Gradient Boosting Machines (GBMs) and LSTMs. The input features are lagged measures
-of inflation, unemployment and percentage change in crude oil price.
+This project investigates the application of machine learning methods in forecasting the rate of CPI inflation in the U.S. by comparing the empirical performance of six supervised learning algorithms: Ridge Regression, KNN, SVR, Random Forest, Gradient Boosting Machines (GBMs) and LSTMs. The input features are lagged measures of inflation, unemployment and percentage change in crude oil price.
 
-A rolling window of data and walk forward cross-validation are used to pro-
-duce one and four-quarters-ahead forecasts on the period 1998Q1 to 2017Q1, fol-
-lowing out-of-sample forecasting methods.
+A rolling window of data and walk forward cross-validation are used to produce one and four-quarters-ahead forecasts on the period 1998Q1 to 2017Q1, following out-of-sample forecasting methods.
 
-As a means of comparison against econometric approaches to forecasting in-
-flation, forecasts made in practice by human experts is used as the benchmark. We
-found the best machine learning algorithms marginally outperform human experts
-for four-quarters-ahead forecasts but not for one-quarter-ahead forecasts.
+As a means of comparison against econometric approaches to forecasting inflation, forecasts made in practice by human experts is used as the benchmark. We found the best machine learning algorithms marginally outperform human experts for four-quarters-ahead forecasts but not for one-quarter-ahead forecasts.
 
 ## Prerequisites
 
