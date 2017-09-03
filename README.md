@@ -29,7 +29,7 @@ For Python the following packages are required:
 * NumPy
 * Pandas
 * SciPy
-* jupyter
+* Jupyter
 
 ## Where everything is
 
