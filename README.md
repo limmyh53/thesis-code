@@ -17,7 +17,7 @@ for four-quarters-ahead forecasts but not for one-quarter-ahead forecasts.
 
 ## Prerequisites
 
-The code uses packages and libraries for R (version 3.4.1) and Python (version 2.7 or 3.5). For R the following libraries are required:
+The project used packages and libraries for R (version 3.4.1) and Python (version 2.7 or 3.5). For R the following libraries are required:
 * MASS
 * e1071
 * caret
