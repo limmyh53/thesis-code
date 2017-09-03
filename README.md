@@ -52,5 +52,5 @@ These two folders contain ipython notebooks of all the LSTM models.
 The folder ```models``` contain two R workspace files named ```rr_svr_knn_rf``` and ```gbm```.
 These two contain the trained models of Ridge Regression, SVR, KNN and Random Forest models and the trained GBM models respectively.
 
-Furthermore you'll find the folders ```gbm``` and ```lstm```. These two folders contain the saved models of GBM and LSTM models.
+Furthermore you'll find the folder ```lstm```. This folder contain the saved validated models of all LSTM variations. For instructions on how to load these files, refer to the TensorFlow API Documentation (https://www.tensorflow.org/api_docs/python/tf/train/Saver).
 
