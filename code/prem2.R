@@ -58,3 +58,6 @@ oil.aug.lag <- window(oil.percent, start=c(1948,1), end=c(2016,4))
                      inflation.lag = inflation.aug.lag1,
                      unemp.lag = unemp.aug.lag,
                      oil.lag = oil.aug.lag)
+
+
+ 
